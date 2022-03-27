@@ -15,7 +15,14 @@ https://soraaslon.github.io/NorTural/src/index.html
 - José Roberto Claudino Ferreira - SP3024369<br>
 - Julia Romualdo Pereira - SP3023061<br>
 
+### Veja os nossos perfis no LinkedIn
 
+- [Ana Caroline Borges dos Santos](https://www.linkedin.com/in/ana-caroline-borges-3a156a212/)
+- [Beatriz Leandro Mazzeu](https://www.linkedin.com/in/beatriz-leandro-9a7b42211/)
+- [Giulia Santana dos Anjos]()
+- [Guilherme Molina Trindade]()
+- [José Roberto Ferreira Claudino](https://www.linkedin.com/in/jrfclaudino/)
+- [Julia Romualdo Pereira]()
 
 <h4 align="center">
   🚧 Projeto README 🚀 Em construção... 🚧
