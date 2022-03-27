@@ -8,19 +8,25 @@
 
 * [Sobre](#Sobre)
 * [Tecnologias e Ferramentas](#Tecnologias)
-  * [Features](#Features)
-  * [Autores](#Autores)
-  * [Roadmap](#Roadmap)
+* [Features](#Features)
+* [Autores](#Autores)
+* [Roadmap](#Roadmap)
 
 #  Sobre
 <p>Este projeto, tem o intuito de aumentar o conhecimento sobre a cultura do nordeste, uma cultura riquíssima de diversidade cultural, além de fazer parte da cultura do nosso país, mas que acaba sendo esquecida em meios a outras culturas internacionais e com muita influência/alcance.</p>
 <p>Trabalho apresentado para fins avaliativos nas disciplinas de Teoria e Desenvolvimentode Sistemas e Linguagem de Programação 3 do curso técnico de Informática integrado ao ensino médio do IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.</p>
 
 # Tecnologias
-Javascript
-HTML
-CSS
-
+<p style="
+   display: inline;
+">
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Molina0127/NorTural" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Molina0127/NorTural" />
+<img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/Molina0127/NorTural" />
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Molina0127/NorTural" />
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/Molina0127/NorTural" />
+</p>
+    
 # Features
 Funcionalidades
 
