@@ -19,10 +19,10 @@ https://soraaslon.github.io/NorTural/src/index.html
 
 - [Ana Caroline Borges dos Santos](https://www.linkedin.com/in/ana-caroline-borges-3a156a212/)
 - [Beatriz Leandro Mazzeu](https://www.linkedin.com/in/beatriz-leandro-9a7b42211/)
-- [Giulia Santana dos Anjos]()
-- [Guilherme Molina Trindade]()
+- [Giulia Santana dos Anjos](https://www.linkedin.com/in/giulia-santana-dos-anjos-822472212/)
+- [Guilherme Molina Trindade](https://www.linkedin.com/in/guilherme-molina-trindade/)
 - [José Roberto Ferreira Claudino](https://www.linkedin.com/in/jrfclaudino/)
-- [Julia Romualdo Pereira]()
+- [Julia Romualdo Pereira](https://www.linkedin.com/in/julia-romualdo-69b0a1212/)
 
 <h4 align="center">
   🚧 Projeto README 🚀 Em construção... 🚧
