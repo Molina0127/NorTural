@@ -6,13 +6,16 @@
 ## Link do site:
 https://soraaslon.github.io/NorTural/src/index.html
 
-##  Integrantes da equipe:
-Ana Caroline Borges dos Santos - SP3027597<br>
-Beatriz Leandro Mazzeu - SP3024482<br>
-Giulia Santana dos Anjos - SP3025918<br>
-Guilherme Molina Trindade - SP3030261<br>
-José Roberto Claudino Ferreira - SP3024369<br>
-Julia Romualdo Pereira - SP3023061<br>
+## Integrantes da equipe:
+
+- Ana Caroline Borges dos Santos - SP3027597<br>
+- Beatriz Leandro Mazzeu - SP3024482<br>
+- Giulia Santana dos Anjos - SP3025918<br>
+- Guilherme Molina Trindade - SP3030261<br>
+- José Roberto Claudino Ferreira - SP3024369<br>
+- Julia Romualdo Pereira - SP3023061<br>
+
+
 
 <h4 align="center">
   🚧 Projeto README 🚀 Em construção... 🚧
