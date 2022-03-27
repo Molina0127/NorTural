@@ -27,11 +27,15 @@
 <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Molina0127/NorTural" />
 </p>
     
+Para criar esse projeto foi utilizado a Linguagem HTML, a Linguagem CSS e a Linguagem JavaScript. Além disso também foi utilizado a biblioteca JQuery para adicionar algumas funcionalidades específicas ao JavaScript. O JQuery em si foi mais utilizado na criação do código do Quiz.
+
+Como se trata de um projeto que foi trabalhado em conjunto, com uma equipe de 6 integrantes, também contamos com a metodologia ágil Crystal Report e as ferramentas Kanban por meio da plataforma Trello.
+
 # Features
 Funcionalidades
 
 
-## Link do site:
+## URL da aplicação:
 https://soraaslon.github.io/NorTural/src/index.html
 
 ## Integrantes da equipe:
